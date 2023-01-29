@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		10EC745B2986DDFB0059CECA /* Destuni-Angela-Homework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Destuni-Angela-Homework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		10EC745B2986DDFB0059CECA /* Destini-Angela-Homework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Destini-Angela-Homework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10EC745E2986DDFB0059CECA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10EC74602986DDFB0059CECA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		10EC74622986DDFB0059CECA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -50,7 +50,7 @@
 			children = (
 				10EC747D2986E2050059CECA /* README.md */,
 				10EC74762986E0940059CECA /* .gitignore */,
-				10EC745D2986DDFB0059CECA /* Destuni-Angela-Homework */,
+				10EC745D2986DDFB0059CECA /* Destini-Angela-Homework */,
 				10EC745C2986DDFB0059CECA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -58,12 +58,12 @@
 		10EC745C2986DDFB0059CECA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				10EC745B2986DDFB0059CECA /* Destuni-Angela-Homework.app */,
+				10EC745B2986DDFB0059CECA /* Destini-Angela-Homework.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		10EC745D2986DDFB0059CECA /* Destuni-Angela-Homework */ = {
+		10EC745D2986DDFB0059CECA /* Destini-Angela-Homework */ = {
 			isa = PBXGroup;
 			children = (
 				10EC74782986E1860059CECA /* Model */,
@@ -74,7 +74,7 @@
 				10EC74672986DDFC0059CECA /* Assets.xcassets */,
 				10EC746C2986DDFC0059CECA /* Info.plist */,
 			);
-			path = "Destuni-Angela-Homework";
+			path = "Destini-Angela-Homework";
 			sourceTree = "<group>";
 		};
 		10EC74722986DE120059CECA /* Application */ = {
@@ -114,9 +114,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		10EC745A2986DDFB0059CECA /* Destuni-Angela-Homework */ = {
+		10EC745A2986DDFB0059CECA /* Destini-Angela-Homework */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 10EC746F2986DDFC0059CECA /* Build configuration list for PBXNativeTarget "Destuni-Angela-Homework" */;
+			buildConfigurationList = 10EC746F2986DDFC0059CECA /* Build configuration list for PBXNativeTarget "Destini-Angela-Homework" */;
 			buildPhases = (
 				10EC74572986DDFB0059CECA /* Sources */,
 				10EC74582986DDFB0059CECA /* Frameworks */,
@@ -126,9 +126,9 @@
 			);
 			dependencies = (
 			);
-			name = "Destuni-Angela-Homework";
+			name = "Destini-Angela-Homework";
 			productName = "Destuni-Angela-Homework";
-			productReference = 10EC745B2986DDFB0059CECA /* Destuni-Angela-Homework.app */;
+			productReference = 10EC745B2986DDFB0059CECA /* Destini-Angela-Homework.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -146,7 +146,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 10EC74562986DDFB0059CECA /* Build configuration list for PBXProject "Destuni-Angela-Homework" */;
+			buildConfigurationList = 10EC74562986DDFB0059CECA /* Build configuration list for PBXProject "Destini-Angela-Homework" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -159,7 +159,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				10EC745A2986DDFB0059CECA /* Destuni-Angela-Homework */,
+				10EC745A2986DDFB0059CECA /* Destini-Angela-Homework */,
 			);
 		};
 /* End PBXProject section */
@@ -337,7 +337,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = N2CSX799P5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Destuni-Angela-Homework/Info.plist";
+				INFOPLIST_FILE = "Destini-Angela-Homework/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -369,7 +369,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = N2CSX799P5;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Destuni-Angela-Homework/Info.plist";
+				INFOPLIST_FILE = "Destini-Angela-Homework/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -395,7 +395,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		10EC74562986DDFB0059CECA /* Build configuration list for PBXProject "Destuni-Angela-Homework" */ = {
+		10EC74562986DDFB0059CECA /* Build configuration list for PBXProject "Destini-Angela-Homework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				10EC746D2986DDFC0059CECA /* Debug */,
@@ -404,7 +404,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		10EC746F2986DDFC0059CECA /* Build configuration list for PBXNativeTarget "Destuni-Angela-Homework" */ = {
+		10EC746F2986DDFC0059CECA /* Build configuration list for PBXNativeTarget "Destini-Angela-Homework" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				10EC74702986DDFC0059CECA /* Debug */,
