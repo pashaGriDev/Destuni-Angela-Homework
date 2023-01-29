@@ -9,9 +9,11 @@ import UIKit
 
 class StartViewController: UIViewController {
     
+    let mainView = MainView()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        view = MainView()
+        view = mainView
     }
 }
 
