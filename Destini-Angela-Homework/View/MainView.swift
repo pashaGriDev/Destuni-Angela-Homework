@@ -61,7 +61,7 @@ class MainView: UIView {
     func configure(label: String, choice1: String, choice2: String) {
         storyLabel.text = label
         choiceButtons[0].setTitle(choice1, for: .normal)
-        choiceButtons[1].setTitle(choice1, for: .normal)
+        choiceButtons[1].setTitle(choice2, for: .normal)
     }
     
     private func setConstraint() {
