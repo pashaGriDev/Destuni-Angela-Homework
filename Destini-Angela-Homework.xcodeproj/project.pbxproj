@@ -14,7 +14,6 @@
 		10EC74772986E0940059CECA /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 10EC74762986E0940059CECA /* .gitignore */; };
 		10EC747A2986E1A30059CECA /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC74792986E1A30059CECA /* Story.swift */; };
 		10EC747C2986E1B20059CECA /* StoryBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC747B2986E1B20059CECA /* StoryBrain.swift */; };
-		10EC747E2986E2050059CECA /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 10EC747D2986E2050059CECA /* README.md */; };
 		10EC74802986F1860059CECA /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC747F2986F1860059CECA /* StartViewController.swift */; };
 		10EC74822986F1E70059CECA /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC74812986F1E70059CECA /* MainView.swift */; };
 		10EC74842986F5D90059CECA /* ChoiceButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10EC74832986F5D90059CECA /* ChoiceButton.swift */; };
@@ -31,7 +30,6 @@
 		10EC74762986E0940059CECA /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		10EC74792986E1A30059CECA /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		10EC747B2986E1B20059CECA /* StoryBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryBrain.swift; sourceTree = "<group>"; };
-		10EC747D2986E2050059CECA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		10EC747F2986F1860059CECA /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 		10EC74812986F1E70059CECA /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		10EC74832986F5D90059CECA /* ChoiceButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoiceButton.swift; sourceTree = "<group>"; };
@@ -52,7 +50,6 @@
 		10EC74522986DDFB0059CECA = {
 			isa = PBXGroup;
 			children = (
-				10EC747D2986E2050059CECA /* README.md */,
 				10EC74762986E0940059CECA /* .gitignore */,
 				10EC745D2986DDFB0059CECA /* Destini-Angela-Homework */,
 				10EC745C2986DDFB0059CECA /* Products */,
@@ -185,7 +182,6 @@
 			files = (
 				10EC74772986E0940059CECA /* .gitignore in Resources */,
 				10EC746B2986DDFC0059CECA /* LaunchScreen.storyboard in Resources */,
-				10EC747E2986E2050059CECA /* README.md in Resources */,
 				10EC74682986DDFC0059CECA /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
