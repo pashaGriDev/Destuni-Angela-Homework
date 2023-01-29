@@ -16,12 +16,9 @@ class ChoiceButton: UIButton {
         setImage()
         setTitle("Choice", for: .normal)
         setTitleColor(.white, for: .normal)
-        titleLabel?.font = UIFont.systemFont(ofSize: 22)
+        titleLabel?.font = UIFont.boldSystemFont(ofSize: 22)
+        titleLabel?.numberOfLines = 2
         titleLabel?.textAlignment = .center
-    }
-    
-    func configure(_ title: String) {
-        self.setTitle(title, for: .normal)
     }
     
     private func setImage() {

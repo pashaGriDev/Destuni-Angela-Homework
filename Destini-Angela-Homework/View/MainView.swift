@@ -58,6 +58,12 @@ class MainView: UIView {
         setConstraint()
     }
     
+    func configure(label: String, choice1: String, choice2: String) {
+        storyLabel.text = label
+        choiceButtons[0].setTitle(choice1, for: .normal)
+        choiceButtons[1].setTitle(choice1, for: .normal)
+    }
+    
     private func setConstraint() {
         NSLayoutConstraint.activate([
             backgroundImageView.topAnchor.constraint(equalTo: self.topAnchor),
